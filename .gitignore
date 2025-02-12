@@ -1,0 +1,41 @@
+# Virtual environment
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Database
+db.sqlite3
+*.db
+*.sqlite3
+
+# Secret files
+.env
+
+# Logs
+logs/
+*.log
+
+# Django migrations
+**/migrations/**
+
+# Static and media files
+staticfiles/
+media/
+
+# VS Code settings
+.vscode/
+
+# Python dependencies
+Pipfile
+Pipfile.lock
+
+# Cache
+*.cache
+*.pyc
+*.pyo
+*.pyd
+
+# MacOS & Windows
+.DS_Store
+Thumbs.db
