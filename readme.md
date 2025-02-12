@@ -26,7 +26,7 @@ This is a **Django REST Framework**-based backend service for a gas utility cons
 
 ### 1️⃣ Clone the Repository
 ```sh
- git clone <your-repo-url>
+ git clone (https://github.com/Vt221001/backend_bynry)
  cd Bynry_Backend/gas_utility
 ```
 
